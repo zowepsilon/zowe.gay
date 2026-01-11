@@ -40,7 +40,7 @@ jobs:
           wget https://github.com/duskmoon314/mdbook-typst-math/releases/download/v0.2.0/mdbook-typst-math-x86_64-unknown-linux-gnu.gz
           gzip -d mdbook-typst-math-x86_64-unknown-linux-gnu.gz
           ls
-          echo 'command = "../mdbook-typst-math-x86_64-unknown-linux-gnu"' >> book.toml
+          echo 'command = "./mdbook-typst-math-x86_64-unknown-linux-gnu"' >> book.toml
 
       - name: Setup Pages
         id: pages
