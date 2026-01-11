@@ -1,0 +1,9 @@
+[book]
+title = "Zowε's loops"
+authors = ["Zowε"]
+language = "en"
+
+[preprocessor.typst-math]
+
+[output.html]
+additional-css = ["css/typst.css"]
