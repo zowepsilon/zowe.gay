@@ -37,7 +37,7 @@ jobs:
           mkdir bin
           wget https://github.com/rust-lang/mdBook/releases/download/v0.5.2/mdbook-v0.5.2-x86_64-unknown-linux-gnu.tar.gz
           tar -xzf mdbook-v0.5.2-x86_64-unknown-linux-gnu.tar.gz --directory=bin
-          wget https://github.com/duskmoon314/mdbook-typst-math/releases/download/v0.2.0/mdbook-typst-math-x86_64-unknown-linux-gnu.gz
+          wget https://github.com/duskmoon314/mdbook-typst-math/releases/download/v0.2.1/mdbook-typst-math-x86_64-unknown-linux-gnu.gz
           gzip -d mdbook-typst-math-x86_64-unknown-linux-gnu.gz
           chmod +x mdbook-typst-math-x86_64-unknown-linux-gnu
           echo 'command = "./mdbook-typst-math-x86_64-unknown-linux-gnu"' >> book.toml
