@@ -1,5 +1,3 @@
-# About me
-
 Hi! I'm Zowε. I also go by Zoé, ε (epsilon) and .
 
 The easiest way to contact me is through Discord: `zowepsilon`. \
