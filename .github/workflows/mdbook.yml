@@ -35,7 +35,7 @@ jobs:
       - name: Install mdBook
         run: |
           mkdir bin
-          wget https://github.com/rust-lang/mdBook/releases/download/0.5.2/mdbook-0.5.2-x86_64-unknown-linux-gnu.tar.gz
+          wget https://github.com/rust-lang/mdBook/releases/download/v0.5.2/mdbook-v0.5.2-x86_64-unknown-linux-gnu.tar.gz
           tar -xz mdbook-0.5.2-x86_64-unknown-linux-gnu.tar.gz --directory=bin
           wget https://github.com/duskmoon314/mdbook-typst-math/releases/download/v0.2.0/mdbook-typst-math-x86_64-unknown-linux-gnu.gz
           gzip -d mdbook-typst-math-x86_64-unknown-linux-gnu.gz
