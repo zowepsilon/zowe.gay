@@ -20,3 +20,7 @@
 .typst-doc {
   color: var(--fg);
 }
+
+.typst-shape {
+    fill: rgba(255, 255, 255, 0);
+}
