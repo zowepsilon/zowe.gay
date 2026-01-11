@@ -7,3 +7,4 @@ language = "en"
 additional-css = ["css/typst.css"]
 
 [preprocessor.typst-math]
+command = "./mdbook-typst-math"
