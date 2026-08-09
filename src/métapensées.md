@@ -13,5 +13,5 @@ j'ai pensé vite fait que j'avais des pensées méta parce que j'avais lu Godel 
 puis j'ai déterminé que ça servait à rien de continuer parce que ça faisait que gaspiller de l'énergie,
 donc j'ai arrêté de penser à ça
 
-Je crois que ça fait des ​ $(omega + 1)$ -métapensées ?
-(Et maintenant ​ $omega + 2$ , etc.)
+Je crois que ça fait des ​ $(omega + 2)$ -métapensées ?
+(Et maintenant ​ $omega + 3$ , etc.)
