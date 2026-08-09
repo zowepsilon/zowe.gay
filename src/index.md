@@ -1,4 +1,4 @@
-Hi! I'm Zowε. I also go by Zoé, ε (epsilon) and .
+Hi! I'm Zowε. I also go by Zoé, Lou, ε (epsilon) and .
 
 The easiest way to contact me is through Discord: `zowepsilon`. \
 I also push most of my projects on [Github](https://github.com/zowepsilon).
